@@ -27,5 +27,5 @@ dependencies = [
 vibescanner = "vibescanner.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/willroberts/vibescanner"
-Issues = "https://github.com/willroberts/vibescanner/issues"
+Homepage = "https://github.com/wheel-is/vibescanner"
+Issues = "https://github.com/wheel-is/vibescanner/issues"
