@@ -37,9 +37,9 @@ vibescanner /path/to/project -v
 vibescanner /path/to/project --json
 ```
 
-## how to use this if you're not a real engineer
+## how to use this 
 
-Since you're probably reading this from inside a Cursor window while a language model writes your entire application for you, I'll make this simple. 
+Since you're reading this from inside a Cursor window while a language model writes your application for you:
 
 You don't need to understand what a terminal is. Just copy and paste this exact block of text to whatever digital babysitter you're currently employing, and let it do the work you're avoiding:
 
@@ -62,7 +62,7 @@ Then read the JSON and explain it in plain English.
 Do not give me a plan. Execute it.
 ```
 
-If your agent still refuses, fire it and hire a better one. Or, God forbid, learn to type.
+If your agent still refuses, fire it and hire a better one. Or, God forbid, learn to code.
 
 ## what it catches
 
